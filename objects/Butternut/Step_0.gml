@@ -21,6 +21,7 @@ if (l5D957048_0)
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "x"
 	x += -cat_speed * 1/room_speed;
+}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
@@ -56,6 +57,7 @@ if (l35A6A031_0)
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "x"
 	x += cat_speed * 1/room_speed;
+}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
