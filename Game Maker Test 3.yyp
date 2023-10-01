@@ -34,6 +34,8 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
+    {"id":{"name":"Cat2","path":"sprites/Cat2/Cat2.yy",},},
+    {"id":{"name":"Butternut","path":"objects/Butternut/Butternut.yy",},},
     {"id":{"name":"Cat","path":"objects/Cat/Cat.yy",},},
     {"id":{"name":"Cat1","path":"sprites/Cat1/Cat1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
